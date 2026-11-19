@@ -80,8 +80,3 @@ Seluruh paket sudah menyertakan **Java Runtime** bawaan sehingga tidak memerluka
 
 - **Instalasi Baru:** Saat aplikasi dijalankan pertama kali dengan basis data kosong pengguna, layar login otomatis menampilkan formulir **Pendaftaran Administrator Awal Offline** (tidak ada akun bawaan yang ditanam tetap).
 - **Pembaruan Versi (Upgrade Aman):** Data transaksi timbang, pengaturan profil usaha, master data, cadangan basis data (`.sql`), serta aktivasi lisensi perangkat **tidak akan terhapus** saat melakukan pembaruan versi—baik melalui installer terbaru maupun melalui tombol **Cek Pembaruan** (oleh Administrator, otomatis mencadangkan `.sql` terlebih dahulu dan memverifikasi SHA-256 sebelum memasang pembaruan).
-
----
-
-## Bantuan & Aktivasi Lisensi
-- **WhatsApp Support LLS Weigh:** [+62 822-6823-2803](https://wa.me/6282268232803)
